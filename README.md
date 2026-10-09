@@ -4,11 +4,7 @@ Smart Parking System is a web-based project designed to help users find parking 
 
 ## ✨ Features
 
-* 🔐 Simple Login and Sign-Up Interface
-* 📍 Current Location Input
 * 🅿️ Parking Location Search
-* 🗺️ Map-Based Navigation
-* 📏 Distance Calculation
 * 🚘 Parking Slot Availability Display
 * 💻 User-Friendly Interface
 * 📱 Responsive Web Design
@@ -18,7 +14,6 @@ Smart Parking System is a web-based project designed to help users find parking 
 * HTML
 * CSS
 * JavaScript
-* AI-assisted development tools
 
 ## 🎯 Project Objective
 
@@ -27,10 +22,8 @@ The main objective of this project is to make parking easier by helping users lo
 ## 🚀 Future Improvements
 
 * Real-time parking slot updates
-* GPS-based location tracking
 * Online parking reservations
 * Online payment integration
-* Admin dashboard for parking management
 
 ## 👨‍💻 Developer
 
